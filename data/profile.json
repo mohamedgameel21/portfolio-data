@@ -1,0 +1,26 @@
+{
+  "name": "Mohamed Noureldin",
+  "title": "Data Scientist & Machine Learning Engineer",
+  "location": "Banha, Qalyubia, Egypt",
+  "email": "mohamednoureldin217@gmail.com",
+  "links": {
+    "GitHub": "https://github.com/mohamedgameel21",
+    "LinkedIn": "https://www.linkedin.com/in/mohamed-noureldin-1625b2270",
+    "Portfolio": "https://mohamednoureldin.ai.studio"
+  },
+  "summary": "Data Scientist and ML engineer focused on end-to-end machine learning: data cleaning, EDA, feature engineering, model training, tuning and evaluation. Driven by turning complex datasets into actionable insights.",
+  "education": [
+    {
+      "school": "Benha University - Faculty of Computers and Artificial Intelligence",
+      "degree": "B.Sc. in Artificial Intelligence",
+      "period": "Sep 2024 - Jun 2028"
+    }
+  ],
+  "skills": {
+    "Languages": ["Python", "C++"],
+    "Data & EDA": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "Machine Learning": ["Scikit-learn", "XGBoost", "PyTorch", "Feature Engineering", "Model Evaluation"],
+    "Tools": ["Git", "GitHub", "Jupyter Notebook", "VS Code", "Streamlit"]
+  },
+  "certifications": ["Introduction to C++ (certificate)"]
+}
